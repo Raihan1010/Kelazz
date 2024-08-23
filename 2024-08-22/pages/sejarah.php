@@ -1,0 +1,1 @@
+Sejarah berdirinya SMKN 2 Buduran didirikan pada Tahun 1945
