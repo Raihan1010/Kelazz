@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+
+body{
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/* Bagian Pertama */
+
+.container{
+    width: 100%;
+    text-align: center;
+}
+
+.kbg{
+    background-image: url(./bahan-uts2024/assets/img/bg-masthead.jpg);
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wrapper{
+    height: 1000px;
+    display: block;
+}
+
+.tbl-biru{
+    background: #3572EF;
+    padding: 15px 20px 15px 20px;
+    color: #fff;
+    border-radius: 10px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+a.tbl-biru:hover{
+    background: #fc5185;
+    text-decoration: none;
+}
+
+
+
+h3{
+    margin-top: 400px;
+    margin-bottom: 0px;
+}
+
+
+
+/* Bagian Kedua */
+.container2{
+    height: 600px;
+    text-align: center;
+}
+
+
